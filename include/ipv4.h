@@ -3,7 +3,7 @@
 * This code is licensed under the MIT License. See LICENSE file for details.
 * The ip_protocol_t part was taken from 'cozis/microtcp' project and is licensed
 * under MIT
-* link: https://https://github.com/cozis/microtcp
+* link: https://github.com/cozis/microtcp
 * You should refer to the 'cozis/microtcp' project for those specific lines of
 code.
 
@@ -85,3 +85,4 @@ typedef enum {
 } ip_stat;
 
 #endif // IPV4_H
+
